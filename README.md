@@ -1,2 +1,2 @@
 # OpenCV
-Examples
+Examples works with OpenCV by book
